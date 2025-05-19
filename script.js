@@ -1,5 +1,5 @@
 const typed = new Typed(".multi-text", {
-    strings: ["Android Developer", "Software Engineer"],
+    strings: ["Web Developer", "Software Engineer"],
     typedSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
